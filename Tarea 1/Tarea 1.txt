@@ -1,0 +1,17 @@
+Tarea 1 papw 2
+
+Diferencias entre Git y Sourcetree.
+
+Git es un sistema de control de versiones en cual nos sirve para crear
+los repositorios de nuestro proyectos, para:
+Respaldar informacion.
+Prevenir errores.
+Para hacer versiones del mismo proyecto pero para diferente finalidad.
+
+En cambio Sourcetree es un Git GUI, una interfaz grafica que nos ayudar mas facil aun,
+en como realizar los cambios de una forma mas facil y ver las ramificaciones de las versiones de una
+forma mas grafica y elegante.
+
+Cual utilize.
+Utilize los comandos de Git, porque me servira mas en aprender usarlo con los comandos.
+En definitivo si eligiria un Git GUI seria Git Kraken porque ya lo he utilizado y me gusta mas la interfaz de GitKraken.
