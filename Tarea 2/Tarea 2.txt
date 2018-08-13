@@ -1,0 +1,46 @@
+Como crear un respositorio en git con una rama.
+
+Pasos para la creacion del repositorio:
+
+Crear la carpeta del reposiotrio. 
+	mkdir <nombre>
+Realizar la inicializacion del reposiotrio.
+	git init
+------------------------------------------
+Pasos para la creacion de la rama
+
+git branch este comando le mostrara las ramas actuales.
+
+(Dentro del repositroio)
+Crea la rama con el siguente comando
+git checkout -b <name>
+
+------------------------------------------
+
+Realizar un commit dentro de la nueva rama
+
+Utilize el siguente comando para cambiar de rama
+
+git checkout <name>
+
+Realize git status para ver cambios en e reposiotrio.
+
+git status
+
+Cuando vea los nuevos cambios agrege los cambios
+git add *
+
+Repita el git status
+
+git status
+
+Realizar commit
+
+git commit -m "Nombre del commit"
+--------------------------------------------------
+Observaciones:
+Durante la practia se observo que no se puede crear mas ramas
+si no tiene por lo menos 1 commit, simplemente cambia el nombre
+de la rama principal.
+Una vez realizado el commit ya se puede mostar el nombre de la rama
+con el git branch.
